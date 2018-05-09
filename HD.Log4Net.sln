@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HD.Log4Net", "HD.Log4Net\HD.Log4Net.csproj", "{65017DEB-BC91-4840-A3D4-5F0651A64CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HD.Log4Net.Test", "HD.Log4Net.Test\HD.Log4Net.Test.csproj", "{96815F6C-ED7E-452D-ACA1-26D5A411AAD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65017DEB-BC91-4840-A3D4-5F0651A64CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65017DEB-BC91-4840-A3D4-5F0651A64CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65017DEB-BC91-4840-A3D4-5F0651A64CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65017DEB-BC91-4840-A3D4-5F0651A64CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96815F6C-ED7E-452D-ACA1-26D5A411AAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96815F6C-ED7E-452D-ACA1-26D5A411AAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96815F6C-ED7E-452D-ACA1-26D5A411AAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96815F6C-ED7E-452D-ACA1-26D5A411AAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE1A00C0-1A39-4037-8FE1-56B01F89D01A}
+	EndGlobalSection
+EndGlobal

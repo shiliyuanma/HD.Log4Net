@@ -1,0 +1,15 @@
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\bin\Debug\netcoreapp2.0\log4net.config
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\bin\Debug\netcoreapp2.0\HD.Log4Net.Test.deps.json
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\bin\Debug\netcoreapp2.0\HD.Log4Net.Test.runtimeconfig.json
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\bin\Debug\netcoreapp2.0\HD.Log4Net.Test.runtimeconfig.dev.json
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\bin\Debug\netcoreapp2.0\HD.Log4Net.Test.dll
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\bin\Debug\netcoreapp2.0\HD.Log4Net.Test.pdb
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\bin\Debug\netcoreapp2.0\HD.Log4Net.dll
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\bin\Debug\netcoreapp2.0\HD.Log4Net.pdb
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\obj\Debug\netcoreapp2.0\HD.Log4Net.Test.csprojResolveAssemblyReference.cache
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\obj\Debug\netcoreapp2.0\HD.Log4Net.Test.csproj.CoreCompileInputs.cache
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\obj\Debug\netcoreapp2.0\HD.Log4Net.Test.AssemblyInfoInputs.cache
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\obj\Debug\netcoreapp2.0\HD.Log4Net.Test.AssemblyInfo.cs
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\obj\Debug\netcoreapp2.0\HD.Log4Net.Test.csproj.CopyComplete
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\obj\Debug\netcoreapp2.0\HD.Log4Net.Test.dll
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net.Test\obj\Debug\netcoreapp2.0\HD.Log4Net.Test.pdb
