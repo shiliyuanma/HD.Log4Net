@@ -30,11 +30,11 @@ namespace HD.Log4Net
         #endregion
 
         #region LoggerBuilderExtension
-        public static ILoggingBuilder AddLog4Net(ILoggingBuilder builder)
+        public static ILoggingBuilder AddLog4Net(this ILoggingBuilder builder)
         {
             return AddLog4Net(builder, LogLevel.Trace);
         }
-        public static ILoggingBuilder AddLog4Net(ILoggingBuilder builder, LogLevel minLevel, string logDir = null, string layoutPattern = null, string datePattern = null, bool includeCategory = true, string configPath = null)
+        public static ILoggingBuilder AddLog4Net(this ILoggingBuilder builder, LogLevel minLevel, string logDir = null, string layoutPattern = null, string datePattern = null, bool includeCategory = true, string configPath = null)
         {
             return AddLog4Net(
                builder,
@@ -45,7 +45,7 @@ namespace HD.Log4Net
                includeCategory,
                configPath);
         }
-        public static ILoggingBuilder AddLog4Net(ILoggingBuilder builder, Func<string, LogLevel, bool> filter, string logDir = null, string layoutPattern = null, string datePattern = null, bool includeCategory = true, string configPath = null)
+        public static ILoggingBuilder AddLog4Net(this ILoggingBuilder builder, Func<string, LogLevel, bool> filter, string logDir = null, string layoutPattern = null, string datePattern = null, bool includeCategory = true, string configPath = null)
         {
             builder.Services.AddSingleton(typeof(ILoggerProvider), new Log4NetLoggerProvider(filter, logDir, layoutPattern, datePattern, includeCategory, configPath));
             return builder;

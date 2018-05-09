@@ -942,6 +942,7 @@
       },
       "HD.Log4Net/1.0.0": {
         "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.0.0",
           "Microsoft.Extensions.Logging": "2.0.2",
           "log4net": "2.0.8"
         },

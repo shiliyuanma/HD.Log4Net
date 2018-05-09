@@ -1,9 +1,9 @@
 C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net\bin\Debug\netcoreapp2.0\HD.Log4Net.deps.json
 C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net\bin\Debug\netcoreapp2.0\HD.Log4Net.dll
+C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net\bin\Debug\netcoreapp2.0\HD.Log4Net.pdb
 C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net\obj\Debug\netcoreapp2.0\HD.Log4Net.csproj.CoreCompileInputs.cache
 C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net\obj\Debug\netcoreapp2.0\HD.Log4Net.AssemblyInfoInputs.cache
 C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net\obj\Debug\netcoreapp2.0\HD.Log4Net.AssemblyInfo.cs
-C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net\bin\Debug\netcoreapp2.0\HD.Log4Net.pdb
 C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net\obj\Debug\netcoreapp2.0\HD.Log4Net.dll
 C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net\obj\Debug\netcoreapp2.0\HD.Log4Net.pdb
 C:\Home\work\My\codes\HD.Log4Net\HD.Log4Net\obj\Debug\netcoreapp2.0\HD.Log4Net.csprojResolveAssemblyReference.cache
